@@ -1,0 +1,6 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\LINQPractice1012\LINQPractice1012\bin\Debug\LINQPractice1012.exe.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\LINQPractice1012\LINQPractice1012\bin\Debug\LINQPractice1012.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\LINQPractice1012\LINQPractice1012\bin\Debug\LINQPractice1012.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\LINQPractice1012\LINQPractice1012\obj\Debug\LINQPractice1012.csprojResolveAssemblyReference.cache
+c:\users\wecancodeit\documents\visual studio 2015\Projects\LINQPractice1012\LINQPractice1012\obj\Debug\LINQPractice1012.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\LINQPractice1012\LINQPractice1012\obj\Debug\LINQPractice1012.pdb
